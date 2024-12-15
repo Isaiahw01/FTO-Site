@@ -6,7 +6,7 @@ Welcome to the **FTO Training Management System**! This web platform is designed
 
 ---
 ### Login
-![Login](login\imgoflogin.png)
+![Login](https://github.com/Isaiahw01/FTO-Site/blob/main/login/imgoflogin.png?raw=true)
 
 ## Features
 
