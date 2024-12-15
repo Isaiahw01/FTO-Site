@@ -1,6 +1,3 @@
-Sure! Here's a version of the README formatted for a markdown file (`README.md`) that you can directly use in VSCode:
-
-```markdown
 # FTO Training Management System
 
 ## Overview
