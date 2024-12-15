@@ -108,4 +108,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ### Thank you for using the FTO Training Management System! We are committed to providing the best training experience for FTOs, supervisors, and trainees alike.
-```
