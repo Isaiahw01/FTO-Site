@@ -6,8 +6,10 @@ Welcome to the **FTO Training Management System**! This web platform is designed
 
 ---
 ### Login
-![Login](https://github.com/Isaiahw01/FTO-Site/blob/main/login/imgoflogin.png?raw=true)
+![Login]()
 
+### Homepage
+![Homepage]()
 ## Features
 
 ### For Field Training Officers (FTOs)
