@@ -5,6 +5,8 @@
 Welcome to the **FTO Training Management System**! This web platform is designed to help Field Training Officers (FTOs) and Supervisors manage their trainee assignments, track progress, and ensure smooth coordination between trainees, FTOs, and supervisors. The system provides features for managing trainee profiles, tracking training milestones, and overseeing the progress of both FTOs and trainees to ensure the highest standards of professional development.
 
 ---
+### Login
+![Login](login\imgoflogin.png)
 
 ## Features
 
