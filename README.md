@@ -107,5 +107,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Thank you for using the FTO Training Management System! We are committed to providing the best training experience for FTOs, supervisors, and trainees alike.
 ```
-
-You can copy this into your `README.md` file in VSCode. It includes all the sections you requested in a markdown-friendly format that can be rendered easily in GitHub or any markdown viewer.
