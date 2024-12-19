@@ -79,6 +79,38 @@ main {
     font-size: 1.1rem;
 }
 
+.Logout {
+    border: #333;
+    border-radius: 1rem;
+    background-color: tomato;
+}
+
+/* Floating Logout Box */
+.logout-box {
+    position: fixed;
+    bottom: 20px;  /* Distance from the bottom of the page */
+    right: 20px;   /* Distance from the right of the page */
+    text-align: center;
+    z-index: 1000; /* Ensures it's above other content */
+}
+
+.logout-box .Logout {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 25px; /* Rounded corners */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); /* Shadow below the button */
+    transition: background-color 0.3s ease;
+}
+
+.logout-box .Logout:hover {
+    background-color: darkred;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4); /* Stronger shadow on hover */
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .sticky-header nav ul {
@@ -91,5 +123,10 @@ main {
 
     .container {
         padding: 15px;
+    }
+
+    .logout-box {
+        bottom: 10px; /* Adjust bottom position for smaller screens */
+        right: 10px;  /* Adjust right position for smaller screens */
     }
 }

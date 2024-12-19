@@ -113,30 +113,12 @@ img {
   font-size: 1.25rem;
 }
 
-.login__check, 
-.login__check-box {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.login__check {
-  margin-bottom: 1rem;
-  font-size: var(--small-font-size);
-}
-
-.login__check-box {
-  column-gap: .5rem;
-}
-
-.login__check-input {
-  width: 1rem;
-  height: 1rem;
-  accent-color: var(--white-color);
-}
-
 .login__forgot {
   color: var(--white-color);
+  display: block;
+  text-align: center;
+  margin-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .login__forgot:hover {
@@ -152,20 +134,6 @@ img {
   color: var(--black-color);
   font-weight: 500;
   cursor: pointer;
-}
-
-.login__register {
-  font-size: var(--small-font-size);
-  text-align: center;
-}
-
-.login__register a {
-  color: var(--white-color);
-  font-weight: 500;
-}
-
-.login__register a:hover {
-  text-decoration: underline;
 }
 
 /*=============== BREAKPOINTS ===============*/
